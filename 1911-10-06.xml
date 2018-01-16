@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Postkarte von Lena an Gustav Nikolaus</title>
+    <editor>
+    	<persName>de la Iglesia, Martin</persName>
+    	<email>martin.delaiglesia@gmail.com</email></editor>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Martin de la Iglesia</publisher>
+    <availability>
+    	<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative Commons License CC-BY 4.0</licence>
+    </availability>
+    <date when="2018"></date>
+    <idno type="URL">https://hdl.handle.net/21.11113/0000-000B-CABD-D</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="online"></bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+  	<correspDesc>
+  		<correspAction type="sent">
+  			<persName>Nikolaus, Lena</persName>
+  			<placeName ref="http://www.geonames.org/2946657">Bollendorf</placeName>
+  			<date when="1911-10-06"></date>
+  		</correspAction>
+  		<correspAction type="received">
+  			<persName>Nikolaus, Gustav</persName>
+  			<placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+  		</correspAction>
+  	</correspDesc>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>
+   <lb></lb>L. G. deinen Brief dankend
+   <lb></lb>erhalten. Hoffentlich hast du
+   <lb></lb>den Korb jetzt. Bei uns alles
+   <lb></lb>wohl, wie bist du den
+   <lb></lb>mit deinem Essen zufrieden
+   <lb></lb>Zwetschen giebt es hier keine
+   <lb></lb>mehr die Nüsse welche ich
+   <lb></lb>im Brief bemerkt hatte
+   <lb></lb>sind noch hier, sie gingen
+   <lb></lb>nicht mehr in den Korb.
+   <lb></lb>Viele Grüsse deine Lena.</p>
+  </body>
+ </text>
+</TEI>
